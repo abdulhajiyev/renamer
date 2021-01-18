@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """ <b> Hi {} , I'm A Simple File Renamer+File To Video Converter Bot With Permanent Thumbnail support!💯</b> \n
+    START_TEXT = """ <b> Hi {} , I'm a simple file renamer + file to video converter bot with permanent thumbnail support!</b> \n
 
 <b>Bot Maintained By: @abdulhajiyev</b> \n
 <b>Type /help for more...</b> \n
