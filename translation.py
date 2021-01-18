@@ -5,7 +5,7 @@ class Translation(object):
 <b>Type /help for more...</b> \n
 """
 
-    RENAME_403_ERR = "Wattafak Are You Doing?!!"
+    RENAME_403_ERR = "Wattafak are you doing?!!"
     BANNED_USER_TEXT = "Sorry!! But my owner banned you from using this service. That means you can't run me now! \n \n Contact : @abdulhajiyev For more details.. " 
     ABS_TEXT = "Wattafak are you trying to do,mate?"
     UPGRADE_TEXT = "CONTACT @abdulhajiyev "
